@@ -27,4 +27,31 @@ This game teaches students several important concepts in programming and compute
 7. **Code Structure and Function Usage:** 
    - By dividing the game logic into different functions (e.g., `clickCounter()`, `timeCountdown()`, `startGameHandler()`), students learn about breaking problems into smaller, manageable parts and writing reusable code.
 
+## 2st Python Speed Convertor
+![image](https://github.com/user-attachments/assets/5fca790d-0eb7-4d2b-9bf9-75b189e8fb3c)
 
+## What Students Learn from This Game
+
+This program teaches students several important concepts in programming and computer science:
+
+1. **Graphics with Turtle Module:**
+   - The program uses the Turtle module to display text and graphics on the screen, introducing students to basic computer graphics and how to control visual elements programmatically.
+   - 
+2. **User Interface (UI) Design with Tkinter:**
+   - Students learn how to create a simple user interface using the Tkinter module, including text labels, input fields, and buttons. This is fundamental for building interactive applications where users input data and get real-time feedback.
+   - 
+3. **Handling User Input:**
+   - The program takes input from the user via text fields (Entry) and converts the values using the float() function. This teaches students how to handle and validate user input in GUI-based programs.
+   - 
+4. **Event-driven Programming:**
+   - The program responds to user actions (button clicks) through event handlers, such as submit_input() and submit_input2(). This introduces the concept of event-driven programming, where the program reacts to user events.
+   - 
+5. **Arithmetic Operations and Unit Conversion:**
+   - Students learn how to implement basic arithmetic operations for converting units. The program shows how to convert meters per second (m/s) to kilometers per hour (km/h) and vice versa, reinforcing the importance of applying mathematical concepts in code.
+   - 
+6. **Updating Graphics in Real Time:**
+   - By using Turtle’s clear() and write() methods, the program updates the on-screen text dynamically as the user interacts with it. This teaches students how to create programs that provide real-time visual feedback based on user input.
+   - 
+7. **Code Organization and Function Design:**
+
+   - The program is divided into separate functions for handling different tasks, like submit_input() and submit_input2(). This helps students understand the importance of breaking down larger problems into smaller, manageable functions to keep the code organized and reusable.
